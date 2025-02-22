@@ -7,9 +7,10 @@ public class Main {
 
         System.out.print("Repasando comandos");
         System.out.print("Repasando comandos");
-        System.out.print("Repasando comandos");
-        System.out.print("Repasando comandos");
-        System.out.print("Repasando comandos");
+
+        System.out.print("SUMA");
+        System.out.print("RESTA");
+        System.out.print("MULTIPLICACION");
 
 
         }
