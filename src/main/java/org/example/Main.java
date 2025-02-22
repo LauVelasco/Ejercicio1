@@ -4,6 +4,11 @@ public class Main {
 
         System.out.print("Hola clase");
         System.out.print("Aprendiendo comando por Git");
+
+        System.out.print("Repasando comandos");
+        System.out.print("Repasando comandos");
+        System.out.print("Repasando comandos");
+        System.out.print("Repasando comandos");
         System.out.print("Repasando comandos");
 
 
